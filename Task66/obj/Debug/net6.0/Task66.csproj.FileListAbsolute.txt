@@ -1,0 +1,15 @@
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.csproj.AssemblyReference.cache
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.AssemblyInfoInputs.cache
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.AssemblyInfo.cs
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.csproj.CoreCompileInputs.cache
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/bin/Debug/net6.0/Task66
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/bin/Debug/net6.0/Task66.deps.json
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/bin/Debug/net6.0/Task66.runtimeconfig.json
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/bin/Debug/net6.0/Task66.dll
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/bin/Debug/net6.0/Task66.pdb
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.dll
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/refint/Task66.dll
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.pdb
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/Task66.genruntimeconfig.cache
+/home/dima/Programirovanie/C#/Urok9Rekursia/Task66/obj/Debug/net6.0/ref/Task66.dll
